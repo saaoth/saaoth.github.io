@@ -1,0 +1,24 @@
+
+p{
+    text-align: center;
+    font-size: 30px;
+    background-image:url('images/me.jpg');
+    font-weight: 200;
+}
+
+button{
+    border: 0;
+    width: 35%;
+    height: 50px;
+    background-color: #2fac82;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}

@@ -1,0 +1,46 @@
+.landing{
+    background-color: #3f3f3fc9;
+    background-image: url('../images/landing.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    
+}
+
+button{
+    border: 0;
+    width: 35%;
+    height: 50px;
+    background-color:#2fac82;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.side-1{
+    text-align: center;
+    color: #2fac82;
+    background-color: rgb(91, 122, 121);
+}
+.side-2{
+    background-image: url('../images/pic2.jpeg');
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}
+
+.explore{
+    display: grid;grid-template-columns: 50% 50%;
+}
